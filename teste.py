@@ -1,6 +1,7 @@
 import numpy as np
-#william aqui
+# william aqui
 print("Teste Git")
+print("teste git matheus")
 # Usando exemplo do caderno na forma já padronizada: -min -3x1 -5x2 + 0x3 + 0x4 + 0x5
 
 A = np.array([
