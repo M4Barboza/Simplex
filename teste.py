@@ -1,5 +1,6 @@
 import numpy as np
-
+#william aqui
+print("Teste Git")
 # Usando exemplo do caderno na forma já padronizada: -min -3x1 -5x2 + 0x3 + 0x4 + 0x5
 
 A = np.array([
