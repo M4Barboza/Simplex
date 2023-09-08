@@ -69,3 +69,4 @@ colunateste = matrizNaoBase[:, k]
 
 colunaK = np.all(colunateste >= 0)
 print(colunaK)
+print("teste")
